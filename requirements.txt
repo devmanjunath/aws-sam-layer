@@ -1,3 +1,13 @@
-boto3
-numpy
+fastapi
+mangum
 uvicorn
+pymongo
+motor
+tk
+dnspython
+pytest
+requests
+python-dotenv
+beanie
+pytest-asyncio
+isort
